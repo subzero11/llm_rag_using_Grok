@@ -2,4 +2,4 @@
 
 **WorkFlow**  
 
-**Streamlit App**       **Local LLM Embeddings**      **LangChain**        **Groq Inference**
+**Streamlit App**   ----->    **Local LLM Embeddings**  ------>    **LangChain**  ----->      **Groq Inference**
